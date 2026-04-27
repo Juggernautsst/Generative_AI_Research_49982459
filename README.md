@@ -4,15 +4,23 @@ This repository stores research materials for the project "Using Generative AI T
 
 ## Project Structure
 
-- `literature_review/`: literature review documents such as journal articles, conference papers, books, and news articles.
-- `data/raw_restricted/`: raw research data that may contain sensitive or identifiable information.
-- `data/processed/`: cleaned or de-identified data used for analysis.
-- `instruments/`: survey questions, interview protocols, consent forms, and information sheets.
-- `analysis/quantitative/`: survey analysis scripts, CSV files, Excel files, and quantitative reports.
-- `analysis/qualitative/`: interview coding notes, thematic analysis files, and qualitative insights.
-- `visualisations/`: figures, charts, and other visual outputs.
-- `reports/`: draft proposals, conference papers, and final reports.
-- `admin/`: meeting notes and project management documents.
+```text
+Generative_AI_Research_49982459/
+|-- README.md
+|-- literature_review/
+|-- data/
+|   |-- raw_restricted/
+|   `-- processed/
+|-- instruments/
+|-- analysis/
+|   |-- quantitative/
+|   `-- qualitative/
+|-- visualisations/
+|-- reports/
+`-- admin/
+```
+
+This structure separates literature, raw and processed data, research instruments, analysis files, visual outputs, reports, and administrative documents. Sensitive or identifiable research data should be kept in restricted folders rather than mixed with general project files.
 
 ## Naming Convention
 

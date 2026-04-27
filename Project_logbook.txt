@@ -1,0 +1,8 @@
+Project Logbook
+
+This repository is used for the Week 9 GitHub collaboration activity.
+The research topic is "Using Generative AI Tools - Boon or Bane."
+I am acting as the code reviewer for this repository.
+Developer 1 should update this line in their first pull request.
+Developer 2 should update this line in their first pull request.
+Both developers can later edit this same line to create a merge conflict for the reviewer to resolve.
